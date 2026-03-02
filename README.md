@@ -1,4 +1,4 @@
-# YelpClone — Data 236 Lab 1
+# Data 236 Lab 1 - Yelp
 
 A Yelp-style restaurant discovery and review platform built with **React + Vite + TailwindCSS** (frontend) and **FastAPI + MySQL** (backend), with an **AI Assistant** powered by LangChain and Tavily.
 
@@ -93,5 +93,5 @@ App runs at: http://localhost:5173
 
 ## Contributors
 
-- [Your Name]
-- [Partner Name]
+- Muhammad Faiq Salman
+- Louisa Stumpf
